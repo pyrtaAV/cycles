@@ -1,0 +1,6 @@
+__main__ 2024-05-02 06:06:13,872 ERROR Невозможно преобразовать введенное значение значение
+Traceback (most recent call last):
+  File "/home/alexeypyrta/projects/It-mentor/cycles/part_3.py", line 7, in user_input
+    a = int(input())
+ValueError: invalid literal for int() with base 10: 't'
+__main__ 2024-05-02 06:06:13,874 INFO Среднее число списка равно 4.5
